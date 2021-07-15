@@ -4,13 +4,13 @@ The two subfolders (numerics and simulations) contain two different sets of code
 
 We list out what the codes do:
 
-NUMERICS
+## NUMERICS
 sphere.py is the code that computes the solution for a spherical cell. Corresponds to figure 2.
 cylinder.py does the same for a cylindrical cell. Corresponds to figure 3.
 ellipse.cpp does the same for a spheroidal cell. Corresponds to figure 4.
 sphere_reflect.cpp does the same for a spherical cell with partially absorbing boundaries. Corresponds to figure 5.
 
-SIMULATIONS
+## SIMULATIONS
 sphere_pz.cpp is the code that simulates our model in a spherical cell. Corresponds to figure 2.
 cylinder.cpp does the same for a cylindrical cell. Corresponds to figure 3.
 ellipse.cpp does the same for a spheroidal cell. Corresponds to figure 4.
